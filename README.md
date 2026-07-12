@@ -94,17 +94,21 @@ A research initiative exploring technology-driven solutions for challenges in go
 A collection of data structures, algorithms, JavaScript learning, React Native experiments and full-stack development projects documenting continuous learning.
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=aayushreemalviya26&show_icons=true&theme=transparent&hide_border=true&title_color=2196F3&icon_color=2196F3&text_color=8B949E" />
+<img
+  src="https://github-readme-stats.vercel.app/api?username=aayushreemalviya26&show_icons=true&theme=tokyonight&hide_border=true"
+  height="165"
+/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayushreemalviya26&layout=compact&theme=transparent&hide_border=true&title_color=2196F3&text_color=8B949E" />
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayushreemalviya26&layout=compact&theme=tokyonight&hide_border=true"
+  height="165"
+/>
 
 </div>
-
----
 
 ## Connect With Me
 
