@@ -122,16 +122,6 @@ A collection of data structures, algorithms, JavaScript learning, React Native e
 </div>
 
 
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img
-  src="https://streak-stats.demolab.com?user=aayushreemalviya26&theme=tokyonight&hide_border=true"
-/>
-
-</div>
-
 ## Connect With Me
 
 <p align="left">
