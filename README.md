@@ -99,13 +99,35 @@ A collection of data structures, algorithms, JavaScript learning, React Native e
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=aayushreemalviya26&show_icons=true&theme=tokyonight&hide_border=true"
-  height="165"
+  src="https://github-stats-extended.vercel.app/api?username=aayushreemalviya26&show_icons=true&theme=tokyonight&hide_border=true"
+  height="170"
 />
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayushreemalviya26&layout=compact&theme=tokyonight&hide_border=true"
-  height="165"
+  src="https://github-stats-extended.vercel.app/api/top-langs/?username=aayushreemalviya26&layout=compact&theme=tokyonight&hide_border=true"
+  height="170"
+/>
+
+</div>
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=aayushreemalviya26&theme=tokyo-night&hide_border=true"
+  width="100%"
+/>
+
+</div>
+
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img
+  src="https://streak-stats.demolab.com?user=aayushreemalviya26&theme=tokyonight&hide_border=true"
 />
 
 </div>
