@@ -113,7 +113,7 @@ A collection of data structures, algorithms, JavaScript learning, React Native e
 ## Connect With Me
 
 <p align="left">
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/aayushree-malviya-286087206/">
     <img src="https://img.shields.io/badge/LinkedIn-Aayushree%20Malviya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
