@@ -21,19 +21,19 @@
 
 ## Currently Working On
 
-### 🧒 Anganwadi Healthcare Simulation
+### Anganwadi Healthcare Simulation
 
 A discrete-event simulation and machine-learning-assisted research project for studying bottlenecks in child-malnutrition referral and treatment systems.
 
-### 🛰️ Pragya — Space Weather Early Warning
+###  Pragya — Space Weather Early Warning
 
 An AI-based system for predicting relativistic electron flux and supporting early warning for Indian geostationary satellites.
 
-### 📱 Dwarka Ramlila Application
+###  Dwarka Ramlila Application
 
 A React Native application for event schedules, membership, digital entry passes, media, donations and live streaming.
 
-### 🏛️ Reverse Engineering India’s Public Systems
+###  Reverse Engineering India’s Public Systems
 
 A public-policy and civic-tech series analysing gaps in Indian public systems and proposing practical technology-based solutions.
 
@@ -61,18 +61,18 @@ A public-policy and civic-tech series analysing gaps in Indian public systems an
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🧒 Anganwadi Healthcare Simulation
+###  Anganwadi Healthcare Simulation
 Machine-learning-assisted discrete event simulation for analysing bottlenecks in the Anganwadi–healthcare referral system and predicting child malnutrition outcomes.
 
-### 🛰️ Pragya – Space Weather Early Warning
+###  Pragya – Space Weather Early Warning
 AI-powered forecasting system for predicting high-energy electron flux affecting Indian geostationary satellites using space weather datasets.
 
-### 📱 Dwarka Ramlila App
+###  Dwarka Ramlila App
 A full-featured React Native application with authentication, event schedules, memberships, digital entry passes, donations, live streaming, media gallery and community management.
 
-### 🎓 Smart Campus Management System
+###  Smart Campus Management System
 A complete classroom management platform featuring:
 - CR attendance management
 - Student dashboard
@@ -81,20 +81,20 @@ A complete classroom management platform featuring:
 - Notices and important links
 - Classroom collaboration tools
 
-### 🌿 EcoRoute
+###  EcoRoute
 A sustainability-focused route optimization platform that helps companies choose transportation routes with lower carbon emissions while maintaining operational efficiency.
 
-### 🤝 UniBond
+###  UniBond
 A student–alumni networking platform enabling mentorship, professional networking, announcements, discussions and career opportunities within the university community.
 
-### 🏛️ Reverse Engineering India's Public Systems
+###  Reverse Engineering India's Public Systems
 A research initiative exploring technology-driven solutions for challenges in governance and public systems through architecture proposals and policy analysis.
 
-### 💻 DSA & Development Journey
+###  DSA & Development Journey
 A collection of data structures, algorithms, JavaScript learning, React Native experiments and full-stack development projects documenting continuous learning.
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -110,7 +110,7 @@ A collection of data structures, algorithms, JavaScript learning, React Native e
 
 </div>
 
-## 📈 Contribution Graph
+##  Contribution Graph
 
 <div align="center">
 
